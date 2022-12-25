@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search</string>
+    <string name="bin">BIN</string>
+    <string name="scheme_network">SCHEME / NETWORK</string>
+    <string name="type">TYPE</string>
+    <string name="brand">BRAND</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="country">COUNTRY</string>
+    <string name="bank">BANK</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="warning_no_activity_to_handle">"There is no app to open that link"</string>
+    <string name="country_text">%1$s %2$s</string>
+    <string name="bank_name_and_city">%1$s, %2$s</string>
+    <string name="latitude_and_longitude">(latitude: %1$d, longitude: %2$d)</string>
+    <string name="history">HISTORY</string>
+    <string name="no_data">No data</string>
+    <string name="error_dialog_title">Something is wrong!</string>
+    <string name="unknown_error_text">Unknown error</string>
+</resources>
